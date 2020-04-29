@@ -15,5 +15,5 @@ TODO
 ## Designing interactions with state machines
 Stepehn Oney's [ConstraintJS library](https://github.com/soney/constraintjs) is a more full-featured state machine library designed specifically for creating novel interactions.
 These two academic articles describe ConstraintJS and a Java-based precursor, SwingStates, and their uses:
-[SwingStates: adding state machines to the swing toolkit](https://dl-acm-org.ocadu.idm.oclc.org/doi/abs/10.1145/1166253.1166302)
-[ConstraintJS: programming interactive behaviors for the web by integrating constraints and states](https://dl-acm-org.ocadu.idm.oclc.org/doi/abs/10.1145/2380116.2380146)
+ - [SwingStates: adding state machines to the swing toolkit](https://dl-acm-org.ocadu.idm.oclc.org/doi/abs/10.1145/1166253.1166302)
+ - [ConstraintJS: programming interactive behaviors for the web by integrating constraints and states](https://dl-acm-org.ocadu.idm.oclc.org/doi/abs/10.1145/2380116.2380146)
