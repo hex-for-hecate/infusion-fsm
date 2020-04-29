@@ -1,0 +1,17 @@
+{
+  "name": "fsm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "infusion": "3.0.0-dev.20200317T122331Z.1aa7ea8a1.FLUID-6145"
+  },
+  "devDependencies": {
+    "node-jqunit": "1.1.8"
+  },
+  "author": "",
+  "license": "ISC"
+}
